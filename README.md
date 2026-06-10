@@ -26,7 +26,7 @@
 
 ## 📺 Demos & Tutorials
 
-**[Youtube Channel](https://www.youtube.com/@yungxsanty)** ← Replace with your YouTube link
+**[Youtube Channel](https://www.youtube.com/@yungxsanty)** ← Pls Suscribe for more!!
 
 ---
 
