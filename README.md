@@ -1,6 +1,6 @@
 <div align="center">
 
-![YUNG CLONE Banner](./assets/banner.png)
+![YUNG CLONE Banner](Yung.png)
 
 # 🦇 YUNG CLONE
 
@@ -24,9 +24,9 @@
 
 ---
 
-## 📺 Demo & Tutorial
+## 📺 Demos & Tutorials
 
-**[Watch Full Tutorial on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)** ← Replace with your YouTube link
+**[Youtube Channel](https://www.youtube.com/@yungxsanty)** ← Replace with your YouTube link
 
 ---
 
@@ -389,6 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Created with ❤️ by YvngxSanty**
 
-[GitHub](https://github.com/yvngxsanty) • [YouTube](#) • [Discord](#)
+[GitHub](https://github.com/yvngxsanty) • [YouTube](https://www.youtube.com/@yungxsanty) • [Discord](https://discord.gg/aMVRuYeHFB)
 
 </div>
