@@ -13,7 +13,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](https://github.com/yvngxsanty/Yung-Cloner)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-**Fast • Clean • Precise • Bilingual**
+**Fast • Clean • Precise**
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 📋 Overview
 
-YUNG CLONE is a sophisticated Discord server cloning tool designed for users who need to duplicate server structures. It features a sleek terminal UI, bilingual support (English/Spanish), and robust capabilities for cloning roles, channels, categories, and permissions.
+YUNG CLONE is a sophisticated Discord server cloning tool designed for users who need to duplicate server structures. It features a sleek terminal UI and robust capabilities for cloning roles, channels, categories, and permissions.
 
 > ⚠️ **Important**: This tool is for educational purposes and controlled environments only. Self-bots violate Discord's Terms of Service.
 
@@ -48,12 +48,6 @@ YUNG CLONE is a sophisticated Discord server cloning tool designed for users who
   - Interactive menu system
   - Real-time operation logging
   - Success summaries with statistics
-
-- 🌍 **Bilingual Support**
-  - Full English interface
-  - Complete Spanish (Español) interface
-  - Easy language switching
-  - Translated messages and menus
 
 - ⚙️ **Smart Features**
   - Permission validation before cloning
@@ -102,45 +96,9 @@ python main.py
 
 ---
 
-## 📁 Project Structure
-
-```
-Yung-Cloner/
-├── main.py                 # Application entry point
-├── requirements.txt        # Python dependencies
-├── README.md              # Documentation
-├── LICENSE                # MIT License
-├── CONTRIBUTING.md        # Contribution guidelines
-├── CHANGELOG.md           # Version history
-├── CODE_OF_CONDUCT.md     # Community guidelines
-├── FAQ.md                 # Frequently asked questions
-├── assets/                # Images and banners
-│   └── banner.png
-├── config/                # Configuration files
-│   └── .gitkeep
-└── src/                   # Source code
-    ├── __init__.py
-    ├── ui/                # Terminal UI components
-    │   ├── __init__.py
-    │   ├── ui_manager.py  # Main UI class
-    │   ├── colors.py      # ANSI color definitions
-    │   └── translations.py # Language translations
-    └── core/              # Core cloning logic
-        ├── __init__.py
-        ├── clone_bot.py   # Discord bot client
-        └── clone_operations.py # Cloning operations
-```
-
----
-
 ## 🔧 Configuration
 
-The application supports both English and Spanish languages. Select your preferred language when prompted:
-
-- **English** (Option 2)
-- **Español** (Option 1 - Default)
-
-Configuration can be customized in:
+The application supports bilingual interface with language selection. Configure settings in:
 - `src/ui/translations.py` - Language strings
 - `src/ui/colors.py` - Terminal colors
 - `main.py` - Application settings
@@ -256,11 +214,6 @@ Operation logs are displayed in real-time with timestamps and status icons:
 | ℹ | Info | Cyan |
 | ⟳ | Process | Blue |
 
-Each log entry includes:
-- Timestamp (HH:MM:SS)
-- Status icon
-- Operation message
-
 ---
 
 ## 🤝 Contributing
@@ -272,8 +225,6 @@ Contributions are welcome! Please:
 3. Commit with clear messages: `git commit -m "feat: your feature"`
 4. Push to your fork: `git push origin feature/your-feature`
 5. Open a Pull Request
-
-For detailed guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
@@ -295,15 +246,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Discord Developer Portal](https://discord.com/developers/applications)
 - [Discord Terms of Service](https://discord.com/terms)
 - [GitHub Repository](https://github.com/yvngxsanty/Yung-Cloner)
-
----
-
-## 📊 Project Stats
-
-- **Language**: Python 100%
-- **Version**: 1.0.0
-- **Status**: Active Development
-- **License**: MIT
 
 ---
 
